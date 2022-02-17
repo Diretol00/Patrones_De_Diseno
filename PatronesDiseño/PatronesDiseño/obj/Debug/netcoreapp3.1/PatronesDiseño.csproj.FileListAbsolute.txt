@@ -1,0 +1,13 @@
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\bin\Debug\netcoreapp3.1\PatronesDiseño.exe
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\bin\Debug\netcoreapp3.1\PatronesDiseño.deps.json
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\bin\Debug\netcoreapp3.1\PatronesDiseño.runtimeconfig.json
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\bin\Debug\netcoreapp3.1\PatronesDiseño.runtimeconfig.dev.json
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\bin\Debug\netcoreapp3.1\PatronesDiseño.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\bin\Debug\netcoreapp3.1\PatronesDiseño.pdb
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\obj\Debug\netcoreapp3.1\PatronesDiseño.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\obj\Debug\netcoreapp3.1\PatronesDiseño.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\obj\Debug\netcoreapp3.1\PatronesDiseño.AssemblyInfo.cs
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\obj\Debug\netcoreapp3.1\PatronesDiseño.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\obj\Debug\netcoreapp3.1\PatronesDiseño.dll
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\obj\Debug\netcoreapp3.1\PatronesDiseño.pdb
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\PatronesDiseño\PatronesDiseño\obj\Debug\netcoreapp3.1\PatronesDiseño.genruntimeconfig.cache
